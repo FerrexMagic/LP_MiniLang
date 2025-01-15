@@ -1,0 +1,10 @@
+subroutine int factorial(int n) do
+    int result;
+    int i;
+    string test;
+    while (i < n) do
+        result = result * i;
+        i = i + 1;
+    end;
+    return;
+end

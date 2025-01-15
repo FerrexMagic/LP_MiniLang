@@ -1,0 +1,44 @@
+# Proyecto de Lenguajes de Programación
+
+## Descripción
+
+Compilador de lenguaje MiniLang
+
+Este proyecto es parte del curso de Lenguajes de Programación. El objetivo del proyecto es aplicar los conocimientos adquiridos durante el curso para desarrollar una aplicación o resolver un problema específico utilizando un lenguaje de programación.
+
+## Estructura del Proyecto
+
+El proyecto está organizado en los siguientes directorios y archivos:
+
+- `/pl0`: Contiene el código fuente del proyecto.
+- `/pl0/nodes`: Nodos declarados para el arbol semantico
+- `README.md`: Este archivo, que proporciona una visión general del proyecto.
+
+## Requisitos
+
+- Lenguaje de programación: [Especificar el lenguaje de programación utilizado]
+- Herramientas y librerías: [Especificar las herramientas y librerías necesarias]
+
+## Instalación
+
+Para instalar y ejecutar el proyecto, siga los siguientes pasos:
+
+1. Clonar el repositorio:
+    ```
+    git clone [URL del repositorio]
+    ```
+
+2. Navegar al directorio del proyecto:
+    ```
+    cd [nombre del directorio]
+    ```
+3. Instalar las dependencias:
+    ```
+    [Comando para instalar dependencias]
+    pip install ply
+
+## Uso
+
+Para ejecutar el proyecto, utilice el siguiente comando:
+- python -m pl0 .\archivo
+- python3.11 -m pl0 .\archivo

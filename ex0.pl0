@@ -1,0 +1,25 @@
+int f;
+int fin;
+int fibon;
+
+procedure fib;
+ int aux
+ int localf;
+ begin
+    localf := f;
+    if localf <= 1 then
+        fibon := 1
+    else begin
+        f := localf - 1;
+        call fib;
+        aux := fibon;
+        f := localf - 2;
+        call fib;
+        fibon := fibon + aux;
+    end;
+ end;
+begin
+    f := 10;
+    call fib;
+    out fibon;
+end

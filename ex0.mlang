@@ -1,0 +1,23 @@
+subroutine int factorial(int p, string a)
+    const int num = 0, pepe = 1;
+    const string num2 = "4";
+    int result;
+    int i;
+    int n;
+    bool j;
+    do
+    subroutine void f()
+        int num3;
+        do
+        num3 = 1;
+    end
+    while (i < n) do
+        result = result * i;
+        i = i + 1;
+    end;
+    return n<n;
+    print(1+1);
+    n = input("");
+    n = 1;
+    n = "a" + 1;
+end
